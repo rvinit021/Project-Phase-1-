@@ -23,3 +23,4 @@ The project is planned to be completed in 1 sprint. Tasks assumed to be complete
 
 Core concepts used in project
 Collections framework, File Handling, Sorting, Flow Control, Recursion, Exception Handling, Streams API 
+![Welcome screen ](https://user-images.githubusercontent.com/105557878/191202665-1ded83db-825d-4215-bfb9-cd0ebbafa038.png)
